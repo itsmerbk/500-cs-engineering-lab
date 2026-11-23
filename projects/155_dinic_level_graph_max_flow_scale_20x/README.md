@@ -1,0 +1,12 @@
+# 155 — Dinic Level-Graph Max-Flow (Scale=20x)
+
+- **Track:** Graph Theory & Network Flow
+- **Complexity:** O(V^2 * E)
+
+## Overview
+Dinic layered BFS and blocking-flow DFS network capacity solver (capacity scale 20x).
+
+## Run & Verify
+```bash
+python3 main.py
+```
